@@ -1,0 +1,5 @@
+	#####ALÉM DE COLOCAR EM PRÁTICA O GIT, PÕE TAMBÉM OS CONHECIMENTOS EM VIM(LINUX)#####
+
+		# Este é mais um arquivo teste, para testar os conhecimentos em git;
+		# Este é mais um arquivo teste, para testar os conhecimentos em git;
+
