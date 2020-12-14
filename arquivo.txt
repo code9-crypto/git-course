@@ -3,3 +3,4 @@
 		# Este é mais um arquivo teste, para testar os conhecimentos em git;
 		# Este é mais um arquivo teste, para testar os conhecimentos em git;
 
+**Estou adicionando mais uma linha, para testar o COMANDO DIFF**
