@@ -1,0 +1,3 @@
+Estou fazendo mais um teste para usar o comando diff
+
+inserir mais um linha antes de comitar.
