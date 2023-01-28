@@ -1,0 +1,8 @@
+É POSSÍVEL VISUALIZAR O CÓDIGO ALTERADO ANTES DE
+FAZER O COMMIT, COM O DIFF:
+ - git diff -> esse comando mostrará alteração feita
+		em todos os arquivos.
+
+CASO QUEIRA VERIFICAR APENAS O NOME DO ARQUIVO
+QUE FOI MODIFICADO:
+ - git diff --name-only

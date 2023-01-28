@@ -1,0 +1,6 @@
+DESFAZENDO ALTERAÇÕES
+ - git --restore file ->restaura o arquivo, caso já tenha feito o comando "add"
+ - git restore file -> restaura o arquivo(aqui é quando NÃO tenha feito o comando "add")
+ - git reset --sotf hash_arquivo -> restaura mas com a alteração já feita(aqui já depois do commit)
+ - git reset --mixed hash_arquivo ->
+ - git reset --hard hash_arquivo -> restaura com tudo do zero, ou seja, sem nenhuma modificação feita antes do commit

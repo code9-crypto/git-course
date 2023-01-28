@@ -1,0 +1,6 @@
+##A SINTAXE É BEM SIMPLES##
+
+-> git push origin branch_que_está(default: master/main)
+
+**ESTE COMANDO IRÁ ENVIAR TODOS OS ARQUIVOS DA BRANCH
+ATUAL PARA O GITHUB**

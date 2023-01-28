@@ -1,0 +1,4 @@
+**MOVENDO E DELETANDO BRANCHES**
+-> git checkout nome_branch / movendo
+
+-> git checkout -D nome_branch / deletando

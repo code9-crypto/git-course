@@ -1,0 +1,19 @@
+sintaxe para configurar o nome do usuário:
+- git config --global user.name "nome_do_usuario"
+
+configurando email;
+- git config --global user.email "email_do_usuario"
+
+configurando editor global do git;
+- git config --global core.editor comando_do_editor
+(caso não defina, por padrão será o VIM)
+
+
+CASO QUEIRA SABER O VALOR DAQUELE DADO:
+- git config user.name -> será mostrado qual o usuário
+- git config user.email -> será mostrado o email
+- git config core.editor -> será mostrado o editor
+
+PARA VER TODAS INFORMAÇÕES, DIGITE:
+- git config --list
+

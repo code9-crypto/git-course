@@ -1,0 +1,8 @@
+LOG'S(GIT)
+ - git log -> mostra todas commits
+ - git log --decorate -> entre branchs
+ - git log --author="nome" -> mostra logs pelo nome
+ - git shortlog -> mostra autores, quantos e quais foram
+ - git shortlog -sn -> mostra a pessoa e quantos commit
+ - git --graph -> apresenta em modo gráfico
+ - git show hash_arquivo ->mostra o que foi feito no arquivo
